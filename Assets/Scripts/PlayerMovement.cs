@@ -19,6 +19,6 @@ public class PlayerMovement : MonoBehaviour {
         float moveVertical = Input.GetAxis("Vertical");
 
         Vector3 movement = new Vector3(moveHorizontal, 0, moveVertical);
-        Rigidbody.AddForce(movement );
+        Rigidbody.AddForce(movement * speed);
     }
 }
