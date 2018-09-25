@@ -219,7 +219,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (9)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -364,7 +364,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (8)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -455,7 +455,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (6)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -514,7 +514,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (3)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -793,7 +793,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (1)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -802,6 +802,10 @@ Prefab:
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.z
       value: 0.50000024
+      objectReference: {fileID: 0}
+    - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
+      propertyPath: m_TagString
+      value: Pickup
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
@@ -1066,7 +1070,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (2)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -1125,7 +1129,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (5)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -1184,7 +1188,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (7)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -1445,7 +1449,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (10)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y
@@ -1504,7 +1508,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1015749010349200, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_Name
-      value: Pickup (4)
+      value: Pickup
       objectReference: {fileID: 0}
     - target: {fileID: 4129156671882782, guid: 9ef96437534b7914fb2a9f6b9318a281, type: 2}
       propertyPath: m_LocalScale.y

@@ -21,4 +21,11 @@ public class PlayerMovement : MonoBehaviour {
         Vector3 movement = new Vector3(moveHorizontal, 0, moveVertical);
         Rigidbody.AddForce(movement * speed);
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.CompareTag ("Pickup"))
+        {
+            other.gameObject.SetActive(false);
+        }
+    }
 }
